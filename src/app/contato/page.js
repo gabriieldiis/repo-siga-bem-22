@@ -1,5 +1,6 @@
-// pages/Contato.js
 import React from 'react';
+import Link from 'next/link';
+
 
 const Integrante = ({ nome, cargo, email, imagem }) => {
   return (
